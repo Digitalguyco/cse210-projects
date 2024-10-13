@@ -12,3 +12,6 @@ This repository contains the starter code for many different projects that I wil
 * `foundation` - Starter projects for foundation projects that will build on the core programming concepts.
 
 I look forward to learning and growing through this coursework!
+
+## ScreenShot for foundations 1
+<img src='ScreenShot.png' alt='image' />
