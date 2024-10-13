@@ -15,3 +15,7 @@ I look forward to learning and growing through this coursework!
 
 ## ScreenShot for foundations 1
 <img src='ScreenShot.png' alt='image' />
+
+## ScreenShot for foundations 2
+<img src='Screenshot2.png' alt='image' />
+
