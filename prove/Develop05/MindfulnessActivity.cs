@@ -13,7 +13,7 @@ public abstract class MindfulnessActivity
         SetDuration();
         PrepareToStart();
         RunActivity();
-        ShowEndingMessage();
+        ShowEndingMessage(); 
     }
 
     // Abstract method to run the specific activity

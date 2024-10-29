@@ -13,7 +13,7 @@ public class BreathingActivity : MindfulnessActivity
             Console.Write("Breathe in...");
             PauseWithTimer(4);
             Console.WriteLine();
-            Console.Write("Breathe out...");
+            Console.Write("Now Breathe out...");
             PauseWithTimer(6);
             Console.WriteLine();
 
